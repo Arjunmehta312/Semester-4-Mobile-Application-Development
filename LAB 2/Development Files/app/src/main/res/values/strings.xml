@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">K036_LAB2_MAD</string>
+    <string-array name="photo">
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+    </string-array>
+</resources>
